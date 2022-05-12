@@ -1,9 +1,9 @@
-import java.util.*;
+// import java.util.*;
 
 class Box{
      double w,d,h;
 }
-class BoxDemo{
+class Main{
      public static void main(String args[] ) {
           Box mybox = new Box();
           double vol;
